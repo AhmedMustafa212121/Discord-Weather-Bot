@@ -1,2 +1,2 @@
 # Discord-Weather-Bot
-A bot on discord that can be used to view the upcoming forecast. Created using Javascript and Node.js
+A bot on discord that can be used to view the upcoming forecast. Created using Javascript and Node.js. Any city, zipcode, or latitude/longitude can be inputted using discord to view the upcoming forecast. Need to have your own DISCORD_TOKEN, CLIENT_ID, GUILD_ID, WEATHER_API_KEY. Project can be extended to support other types of functionality such as sunrise/sunset times or like checking for rain and snow. Use npm start to continue rerunning the bot in the server to view the functionality updating.
